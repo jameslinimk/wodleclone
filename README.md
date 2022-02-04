@@ -1,4 +1,6 @@
 ## Just another wordle clone
+### Download:
+ - Download [here](https://github.com/jameslinimk/wodleclone/releases/tag/release) in the releases, or alternatively [compile it yourself](#compiling-yourself)
 ### How to play:
  - Your goal is to find the 5 letter word using 6 tries
  - Guess any 5 letter word by typing it in the game

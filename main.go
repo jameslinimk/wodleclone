@@ -84,8 +84,6 @@ func getWordInput() string {
 }
 
 func drawUI() {
-	fontDeafult.Printf("Word: %s\n", word)
-
 	for i := 0; i < maxGuessCount; i++ {
 		for x := 0; x < 5; x++ {
 			if guesses[i] != "e" {
