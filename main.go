@@ -34,7 +34,6 @@ var fontCorrectBox = color.New(color.BgGreen).Add(color.FgBlack)
 
 func isWord(word string) bool {
 	found := false
-	fmt.Println(wordGuesses)
 	for _, w := range wordGuesses {
 		if w == word {
 			found = true
