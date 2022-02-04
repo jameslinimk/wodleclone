@@ -1,0 +1,1 @@
+### Just another wordle clone, this time written in GO! Run the exe found in the releases and play. The words were taken from the worlde word bank, and overpowered words were hand removed from the guess list. Have fun!
